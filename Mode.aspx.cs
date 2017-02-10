@@ -15,7 +15,7 @@ public partial class Select_Players : System.Web.UI.Page
     protected void team_1_Click(object sender, EventArgs e)
     {
         Session["NumberOfTeams"] = "1";
-        Response.Redirect("~/EnterName.aspx");
+        Response.Redirect("~/PlayerInfo.aspx");
     }
 
     protected void team_2_Click(object sender, EventArgs e)

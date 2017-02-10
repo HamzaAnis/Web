@@ -25,7 +25,7 @@
         <asp:Button ID="team_2" runat="server" BackColor="#999966" BorderColor="#00CC00" BorderStyle="Double" Font-Size="50pt" ForeColor="Yellow" Height="255px" Text="2 Teams" UseSubmitBehavior="False" Width="383px" style="cursor: url(cursor/2.cur), pointer;" OnClick="team_2_Click" BorderWidth="10px"/>
     </div>
 
-    </p>
+    
 </form>
 </body>
 </html>
